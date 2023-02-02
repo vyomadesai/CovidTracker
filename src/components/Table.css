@@ -1,0 +1,8 @@
+.table {
+  color: white;
+}
+
+
+.table tr:nth-of-type(odd) {
+  background-color: white;
+} 
